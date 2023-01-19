@@ -14,5 +14,7 @@ This guide will be most useful if you have done my courses, every idea is based 
 
 If you press that star ⭐ button, we get more stars in the sky! 😊🥳
 
+Hello everyone. Welcome to NeogCamp.
+
 [![Stargazers over time](https://starchart.cc/tanaypratap/build.svg)](https://starchart.cc/tanaypratap/build)
       
